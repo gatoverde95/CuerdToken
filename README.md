@@ -1,2 +1,2 @@
-# Yelena-Updater
+# CuerdUpdater
 Gestor de actualizaciones para CuerdOS.
