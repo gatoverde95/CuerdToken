@@ -1,2 +1,2 @@
 # CuerdToken
-Gestor del sistema para CuerdOS.
+Gestor de actualizaciones para CuerdOS.
